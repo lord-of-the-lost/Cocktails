@@ -10,6 +10,7 @@
 		600B9BF82D6D981C00F2E16D /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600B9BF72D6D981C00F2E16D /* NetworkService.swift */; };
 		600B9BFA2D6D986000F2E16D /* CocktailModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600B9BF92D6D986000F2E16D /* CocktailModel.swift */; };
 		600B9BFC2D6F66EE00F2E16D /* TASK.md in Resources */ = {isa = PBXBuildFile; fileRef = 600B9BFB2D6F66EE00F2E16D /* TASK.md */; };
+		606D62412D722B6800004587 /* CocktailTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 606D62402D722B6800004587 /* CocktailTableViewCell.swift */; };
 		60DB3B982D6CD98F00D8ABAF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60DB3B972D6CD98F00D8ABAF /* AppDelegate.swift */; };
 		60DB3B9C2D6CD98F00D8ABAF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60DB3B9B2D6CD98F00D8ABAF /* ViewController.swift */; };
 		60DB3BA12D6CD99000D8ABAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60DB3BA02D6CD99000D8ABAF /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 		600B9BF72D6D981C00F2E16D /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
 		600B9BF92D6D986000F2E16D /* CocktailModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocktailModel.swift; sourceTree = "<group>"; };
 		600B9BFB2D6F66EE00F2E16D /* TASK.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = TASK.md; sourceTree = "<group>"; };
+		606D62402D722B6800004587 /* CocktailTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocktailTableViewCell.swift; sourceTree = "<group>"; };
 		60DB3B942D6CD98F00D8ABAF /* Cocktails.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cocktails.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60DB3B972D6CD98F00D8ABAF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		60DB3B9B2D6CD98F00D8ABAF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				600B9BF62D6D980300F2E16D /* NetworkService */,
 				60DB3B972D6CD98F00D8ABAF /* AppDelegate.swift */,
 				60DB3B9B2D6CD98F00D8ABAF /* ViewController.swift */,
+				606D62402D722B6800004587 /* CocktailTableViewCell.swift */,
 				60DB3BA02D6CD99000D8ABAF /* Assets.xcassets */,
 				60DB3BA22D6CD99000D8ABAF /* LaunchScreen.storyboard */,
 				60DB3BA52D6CD99000D8ABAF /* Info.plist */,
@@ -152,6 +155,7 @@
 				60DB3B9C2D6CD98F00D8ABAF /* ViewController.swift in Sources */,
 				600B9BFA2D6D986000F2E16D /* CocktailModel.swift in Sources */,
 				600B9BF82D6D981C00F2E16D /* NetworkService.swift in Sources */,
+				606D62412D722B6800004587 /* CocktailTableViewCell.swift in Sources */,
 				60DB3B982D6CD98F00D8ABAF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
